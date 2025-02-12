@@ -1,7 +1,5 @@
 # gRPC Microservices Project with GraphQL API
 
-![go-grpc-grapqhl-microservices](./assets/thumbnail.jpg)
-
 
 This project demonstrates a microservices architecture using gRPC for inter-service communication and GraphQL as the API gateway. It includes services for account management, product catalog, and order processing.
 
